@@ -18,3 +18,6 @@ php artisan serve
 
 - Add smtp credentials to .env
 
+# Admin login
+- admin@demo.com
+- password
